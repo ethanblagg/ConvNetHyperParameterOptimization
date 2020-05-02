@@ -1,0 +1,4 @@
+#!/bin/bash
+
+tensorboard --logdir='./log'
+#tensorboard --logdir='/Users/ethanblagg/SynologyDrive/UCCS/ECE 3610/Prob Stats Proj/tmp'
