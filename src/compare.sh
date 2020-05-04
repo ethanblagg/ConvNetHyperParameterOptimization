@@ -5,9 +5,9 @@ declare -a OPTIMIZERS               # -pcm
 declare -a FILTER_SIZES             # -f
 declare -a EPOCHS                   # -e
 
-LEARNING_RATES=(5e-3 5e-4)
-OPTIMIZERS=(p c m)
-FILTER_SIZES=(12 24 36 48)
+LEARNING_RATES=(5e-3)
+OPTIMIZERS=(m)
+FILTER_SIZES=(48)
 EPOCHS=(3)
 RUNS=2
 BATCH_SIZE=64

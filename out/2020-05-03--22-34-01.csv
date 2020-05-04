@@ -1,0 +1,3 @@
+learning_rate, optimizer, filter_size, epochs, loss, accuracy
+5e-3,m,48,3,,
+5e-3,m,48,3,,
